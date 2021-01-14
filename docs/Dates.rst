@@ -7,6 +7,8 @@ Date and time related utility functions.
 today
 =====
 
+Returns the actual date as a Date object. `Source <https://javascriptf1.com/snippet/get-the-current-date-in-javascript>`_
+
 Syntax:
     .. code-block:: javascript
 
@@ -17,10 +19,6 @@ Parameters:
 
 Returns:
     Date
-
-
-Description:
-    Returns the actual date as a Date object. `Source <https://javascriptf1.com/snippet/get-the-current-date-in-javascript>`_
 
 
 Example:
