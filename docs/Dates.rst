@@ -12,10 +12,16 @@ Syntax:
 
         today() : Date
 
-    :returns: Date
+Parameters:
+    none
+
+Returns:
+    Date
+
 
 Description:
     Returns the actual date as a Date object. `Source <https://javascriptf1.com/snippet/get-the-current-date-in-javascript>`_
+
 
 Example:
     .. code-block:: javascript
@@ -23,6 +29,9 @@ Example:
         import * as Dates from "./utils/Dates.js";
 
         let today = Dates.today();
+
+
+------
 
 
 todayAsIsoString
